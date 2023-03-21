@@ -1,5 +1,5 @@
 /*Nama file: 5_JumBarKolMat.c
-Deskripsi: Menampilkan jumlah setiap baris dan kolom pad atabel T
+Deskripsi: Menampilkan jumlah setiap baris dan kolom pada tabel T
 Pembuat: Keisya Intan Nabila - 24060122130063
 Tgl pembuatan: jumat, 18 Maret 2023*/
 
