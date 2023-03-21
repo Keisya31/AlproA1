@@ -1,5 +1,5 @@
 /*Nama file: 2_FrekNilTabel.c
-Deskripsi: Menentukan nilai element tabel yang frekuensi kemunculannya lebih dari satu klai
+Deskripsi: Menentukan nilai element tabel yang frekuensi kemunculannya lebih dari satu kali
 Pembuat: Keisya Intan Nabila - 24060122130063
 Tgl pembuatan: jumat, 18 Maret 2023*/
 
